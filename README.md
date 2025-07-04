@@ -21,7 +21,7 @@ Un bot Discord en Python avec plusieurs fonctionnalités utiles : modération, j
 
 ## Installation
 
-**1. Clone ce dépôt :**
+1. Clone ce dépôt :
 
    ```bash
    git clone https://github.com/Kg4REAL/4RealBot.git 
@@ -29,30 +29,30 @@ Un bot Discord en Python avec plusieurs fonctionnalités utiles : modération, j
 
 Crée un environnement virtuel:
 
-**python -m venv env**
+python -m venv env
 source env/bin/activate  # Linux/macOS
 env\Scripts\activate     # Windows
 
-**Installe les dépendances :**
+Installe les dépendances :
 pip install -r requirements.txt
 
-**Crée un fichier .env à la racine du projet avec tes clés d’API**
+Crée un fichier .env à la racine du projet avec tes clés d’API
 DISCORD_TOKEN=ton_token_discord_ici
 OPENAI_API_KEY=ta_cle_openai_ici
 
-**Usage**
+Usage
 Lance le bot avec la commande :
 python bot.py
 
-**Configuration**
+## Configuration
 Certaines commandes nécessitent que tu configures des channels (exemple : annonces, support tickets). Utilise la commande /config pour les définir.
 
-**Contribution**
+## Contribution
 N’hésite pas à proposer des améliorations via pull requests ou issues !
 
-**Licence**
+## Licence
 Ce projet est sous licence Kg4real — fais-en bon usage.
 
-**Contact**
+## Contact
 Pour toute question, contacte-moi sur Discord : kg_4real
 
