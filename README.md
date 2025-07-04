@@ -24,7 +24,7 @@ Un bot Discord en Python avec plusieurs fonctionnalités utiles : modération, j
 **1. Clone ce dépôt :**
 
    ```bash
-   git clone https://github.com/ton-utilisateur/4RealBot.git
+   git clone https://github.com/Kg4REAL/4RealBot.git 
    cd 4RealBot
 
 Crée un environnement virtuel:
