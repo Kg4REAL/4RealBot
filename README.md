@@ -27,16 +27,16 @@ Un bot Discord en Python avec plusieurs fonctionnalités utiles : modération, j
    git clone https://github.com/Kg4REAL/4RealBot.git 
    cd 4RealBot
 
-Crée un environnement virtuel:
+2. Crée un environnement virtuel:
 
 python -m venv env
 source env/bin/activate  # Linux/macOS
 env\Scripts\activate     # Windows
 
-Installe les dépendances :
+3. Installe les dépendances :
 pip install -r requirements.txt
 
-Crée un fichier .env à la racine du projet avec tes clés d’API
+4. Crée un fichier .env à la racine du projet avec tes clés d’API
 DISCORD_TOKEN=ton_token_discord_ici
 OPENAI_API_KEY=ta_cle_openai_ici
 
