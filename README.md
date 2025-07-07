@@ -51,7 +51,7 @@ Certaines commandes nécessitent que tu configures des channels (exemple : annon
 N’hésite pas à proposer des améliorations via pull requests ou issues !
 
 ## Licence
-Ce projet est sous licence Kg4real — fais-en bon usage.
+Code open-source – libre d’utilisation à but éducatif.
 
 ## Contact
 Pour toute question, contacte-moi sur Discord : kg_4real
